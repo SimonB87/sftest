@@ -50,6 +50,24 @@
                     </CssClassConditional>
                   </CssClass>
                 </Label>
+                <TextBox>
+                  <Name value="textBox2" />
+                  <Caption value="Text box 2" />
+                  <CaptionVAlign value="Middle" />
+                  <Panel.Height value="#" />
+                  <Panel.Width value="300px" />
+                  <TextAlign value="Center" />
+                  <Tooltip value="Add text" />
+                  <Bindings>
+                    <Binding SourceProperty="Data" Expression="" />
+                  </Bindings>
+                  <CssClass>
+                    <CssClassConditional>
+                      <ClassName value="{theme}-textbox" />
+                      <IsThemedStyle value="True" />
+                    </CssClassConditional>
+                  </CssClass>
+                </TextBox>
               </Children>
               <CssClass>
                 <CssClassConditional>
@@ -82,7 +100,9 @@
           <Name value="name" />
           <Caption value="Name" />
           <DeclaredType>
-            <AttributeType />
+            <AttributeType>
+              <StrMaxLength value="5" />
+            </AttributeType>
           </DeclaredType>
         </Attribute>
         <Computed>
