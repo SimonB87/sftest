@@ -7,25 +7,17 @@
         <UIElement xsi:type="ToolWindowRef" UniqueId="668543fb-e9f7-4160-9f38-d87c6dcce225" />
       </ToolWindowContainer>
     </AutoHideTabStrip>
-    <AutoHideTabStrip Side="Bottom">
-      <ToolWindowContainer AutoHideSize="300,300" DockedSize="300,300" DocumentSize="300,300" FloatingSize="300,300" Size="300,300" SelectedWindowUniqueId="51ebc797-d79c-49a0-99f1-6c69e52be9b3">
-        <UIElement xsi:type="ToolWindowRef" UniqueId="51ebc797-d79c-49a0-99f1-6c69e52be9b3" />
-      </ToolWindowContainer>
-      <ToolWindowContainer AutoHideSize="300,237" DockedSize="300,300" DocumentSize="300,237" FloatingSize="300,237" Size="300,237" SelectedWindowUniqueId="28327c04-10f2-4396-b542-f6e9bb1fc7d5">
-        <UIElement xsi:type="ToolWindowRef" UniqueId="28327c04-10f2-4396-b542-f6e9bb1fc7d5" />
-      </ToolWindowContainer>
-    </AutoHideTabStrip>
   </AutoHideHost>
-  <Content xsi:type="SplitContainer" AutoHideSize="1891.4,1064.8" DockedSize="1743.94895202082,988.083114826631" DocumentSize="1891.4,1064.8" FloatingSize="1891.4,1064.8" Size="1743.94895202082,988.083114826631" Orientation="Vertical">
-    <UIElement xsi:type="SplitContainer" AutoHideSize="1891.4,1064.8" DockedSize="1743.94895202082,988.083114826631" DocumentSize="1891.4,1064.8" FloatingSize="1891.4,1064.8" Size="1743.94895202082,988.083114826631" Orientation="Horizontal">
+  <Content xsi:type="SplitContainer" AutoHideSize="1891.4,1064.8" DockedSize="1743.94895202082,1011.08311482663" DocumentSize="1891.4,1064.8" FloatingSize="1891.4,1064.8" Size="1743.94895202082,1011.08311482663" Orientation="Vertical">
+    <UIElement xsi:type="SplitContainer" AutoHideSize="1891.4,1064.8" DockedSize="1743.94895202082,1011.08311482663" DocumentSize="1891.4,1064.8" FloatingSize="1891.4,1064.8" Size="1743.94895202082,1011.08311482663" Orientation="Horizontal">
       <UIElement xsi:type="ToolWindowContainer" AutoHideSize="220,200" DockedSize="220,200" DocumentSize="220,200" FloatingSize="220,200" Size="220,200" />
-      <UIElement xsi:type="ToolWindowContainer" AutoHideSize="251,1064.8" DockedSize="251,988.083114826631" DocumentSize="251,1064.8" FloatingSize="251,1064.8" Size="251,988.083114826631" SelectedWindowUniqueId="c98e4da8-f030-466b-b53f-de5cad4fb16d">
+      <UIElement xsi:type="ToolWindowContainer" AutoHideSize="251,1064.8" DockedSize="251,1011.08311482663" DocumentSize="251,1064.8" FloatingSize="251,1064.8" Size="251,1011.08311482663" SelectedWindowUniqueId="c98e4da8-f030-466b-b53f-de5cad4fb16d">
         <UIElement xsi:type="ToolWindowRef" UniqueId="c98e4da8-f030-466b-b53f-de5cad4fb16d" />
         <UIElement xsi:type="ToolWindowRef" UniqueId="c7907764-459a-4064-b98f-5e73767a2d44" />
       </UIElement>
-      <UIElement xsi:type="Workspace" AutoHideSize="1168.4,1064.8" DockedSize="1168.4,1064.8" DocumentSize="956.948952020824,988.083114826631" FloatingSize="1168.4,1064.8" Size="956.948952020824,988.083114826631">
+      <UIElement xsi:type="Workspace" AutoHideSize="1168.4,1064.8" DockedSize="1168.4,1064.8" DocumentSize="1063.91394127862,1011.08311482663" FloatingSize="1168.4,1064.8" Size="1063.91394127862,1011.08311482663">
         <Content xsi:type="TabbedMdiHost">
-          <Content xsi:type="TabbedMdiContainer" AutoHideSize="1168.4,1064.8" DockedSize="1168.4,1064.8" DocumentSize="956.948952020824,988.083114826631" FloatingSize="1168.4,1064.8" Size="956.948952020824,988.083114826631">
+          <Content xsi:type="TabbedMdiContainer" AutoHideSize="1168.4,1064.8" DockedSize="1168.4,1064.8" DocumentSize="1063.91394127862,1011.08311482663" FloatingSize="1168.4,1064.8" Size="1063.91394127862,1011.08311482663" SelectedWindowUniqueId="cf30fce7-4feb-48b7-8547-10f7695d3a64">
             <UIElement xsi:type="Track" UniqueId="3b44fa5d-b92a-428f-9376-bc68dcd5018f" />
             <UIElement xsi:type="Track" UniqueId="9c30e5fa-83d6-4bce-902d-e24598559777" />
             <UIElement xsi:type="Track" UniqueId="d85a4188-bade-45d8-8d6d-e678be60922e" />
@@ -35,24 +27,85 @@
             <UIElement xsi:type="Track" UniqueId="fa70aba1-2648-4abf-b73e-1ea1aced57bb" />
             <UIElement xsi:type="Track" UniqueId="b8c0f7d8-27c6-42fd-9b2c-05ae8fc33a43" />
             <UIElement xsi:type="Track" UniqueId="e9011e2e-a409-4cfb-ad14-901c61e00b91" />
+            <UIElement xsi:type="ToolWindowRef" UniqueId="28327c04-10f2-4396-b542-f6e9bb1fc7d5" />
+            <UIElement xsi:type="ToolWindowRef" UniqueId="51ebc797-d79c-49a0-99f1-6c69e52be9b3" />
+            <UIElement xsi:type="DocumentWindowRef" UniqueId="cf30fce7-4feb-48b7-8547-10f7695d3a64" />
           </Content>
         </Content>
       </UIElement>
-      <UIElement xsi:type="SplitContainer" AutoHideSize="462,1064.8" DockedSize="526,988.083114826631" DocumentSize="462,1064.8" FloatingSize="462,1064.8" Size="526,988.083114826631" Orientation="Vertical">
-        <UIElement xsi:type="ToolWindowContainer" AutoHideSize="462,788.404353393086" DockedSize="526,731.333277483063" DocumentSize="462,788.404353393086" FloatingSize="462,788.404353393086" Size="526,731.333277483063" SelectedWindowUniqueId="d5436335-e042-46a4-8427-f3b1e19f2a0d">
+      <UIElement xsi:type="SplitContainer" AutoHideSize="462,1064.8" DockedSize="419.035010742202,1011.08311482663" DocumentSize="462,1064.8" FloatingSize="462,1064.8" Size="419.035010742202,1011.08311482663" Orientation="Vertical">
+        <UIElement xsi:type="ToolWindowContainer" AutoHideSize="462,788.404353393086" DockedSize="419.035010742202,748.443392719939" DocumentSize="462,788.404353393086" FloatingSize="462,788.404353393086" Size="419.035010742202,748.443392719939" SelectedWindowUniqueId="d5436335-e042-46a4-8427-f3b1e19f2a0d">
           <UIElement xsi:type="ToolWindowRef" UniqueId="d5436335-e042-46a4-8427-f3b1e19f2a0d" />
         </UIElement>
-        <UIElement xsi:type="ToolWindowContainer" AutoHideSize="462,271.395646606914" DockedSize="526,251.749837343568" DocumentSize="462,271.395646606914" FloatingSize="462,271.395646606914" Size="526,251.749837343568" SelectedWindowUniqueId="5c66774c-3c8b-4885-a273-d9b5711e6ecd">
+        <UIElement xsi:type="ToolWindowContainer" AutoHideSize="462,271.395646606914" DockedSize="419.035010742202,257.639722106692" DocumentSize="462,271.395646606914" FloatingSize="462,271.395646606914" Size="419.035010742202,257.639722106692" SelectedWindowUniqueId="5c66774c-3c8b-4885-a273-d9b5711e6ecd">
           <UIElement xsi:type="ToolWindowRef" UniqueId="5c66774c-3c8b-4885-a273-d9b5711e6ecd" />
           <UIElement xsi:type="ToolWindowRef" UniqueId="754d2b14-70a3-4830-8e5e-cfafbda6d82d" />
         </UIElement>
+      </UIElement>
+      <UIElement xsi:type="ToolWindowContainer" AutoHideSize="300,237" DockedSize="300,1011.08311482663" DocumentSize="300,237" FloatingSize="300,237" Size="300,1011.08311482663">
+        <UIElement xsi:type="Track" UniqueId="28327c04-10f2-4396-b542-f6e9bb1fc7d5" />
+      </UIElement>
+      <UIElement xsi:type="ToolWindowContainer" AutoHideSize="300,300" DockedSize="300,1011.08311482663" DocumentSize="300,300" FloatingSize="300,300" Size="300,1011.08311482663">
+        <UIElement xsi:type="Track" UniqueId="51ebc797-d79c-49a0-99f1-6c69e52be9b3" />
       </UIElement>
     </UIElement>
     <UIElement xsi:type="ToolWindowContainer" AutoHideSize="1891.4,197" DockedSize="1891.4,197" DocumentSize="1891.4,197" FloatingSize="1891.4,197" Size="1891.4,197">
       <UIElement xsi:type="Track" UniqueId="8ab81793-7bd3-4ad5-9980-7cfdf9b58adc" />
     </UIElement>
   </Content>
+  <DocumentWindows>
+    <DocumentWindow UniqueId="cf30fce7-4feb-48b7-8547-10f7695d3a64" AutoHideSize="1063.91394127862,1011.08311482663" DockedSize="1063.91394127862,1011.08311482663" DocumentSize="1063.91394127862,1011.08311482663" FloatingSize="1063.91394127862,1011.08311482663" Size="1063.91394127862,1011.08311482663" IsOpen="true" LastState="Document" StandardMdiBounds="0,0,300,200" State="Document">
+      <Tag xsi:type="LayoutData" ToolType="ScreenFactory.Client.FormDesigner.FormDocumentEditor" ObjectId="/!main.f3e1625a654041b2b55f3ada99842a6b/#UiParts[0]/form">
+        <Data>
+          <State Split="0">
+            <ToolsStates>
+              <State Tool="ScreenFactory.Client.ApiObjectsDesigner.ApiObjectsTool">
+                <State DefaultExpanded="true" />
+              </State>
+              <State Tool="ScreenFactory.Client.Designers.ActionsDesigner.ActionsTool">
+                <State DefaultExpanded="true" />
+              </State>
+              <State Tool="ScreenFactory.Client.DataContextDesigner.VariablesTool">
+                <Variables>
+                  <State IsEditMode="true" DefaultExpanded="false">
+                    <SavedPathStates>
+                      <Item>Form variables</Item>
+                    </SavedPathStates>
+                  </State>
+                  <Headers>
+                    <Header Width="300" Caption="Name" />
+                    <Header Width="90" Caption="Type" />
+                    <Header Width="120" Caption="Flags" />
+                  </Headers>
+                </Variables>
+              </State>
+            </ToolsStates>
+            <FormTree>
+              <TreeState DefaultExpanded="true" />
+              <Headers>
+                <Header Width="240" Caption="Component" />
+                <Header Width="90" Caption="Type" />
+                <Header Width="200" Caption="Name" />
+                <Header Width="60" Caption="# children" />
+              </Headers>
+            </FormTree>
+            <VisualDesigner ShowContainerBorders="true" ShowInvisibleComponents="false" IsChanged="true" />
+          </State>
+        </Data>
+      </Tag>
+    </DocumentWindow>
+  </DocumentWindows>
   <RaftingHosts>
+    <RaftingHost IsMaximized="false" Location="428,842" Size="820.374961090244,237.183237049901" State="Floating">
+      <Content xsi:type="ToolWindowContainer" AutoHideSize="300,237" DockedSize="300,1011.08311482663" DocumentSize="300,237" FloatingSize="820.374961090244,237.183237049901" Size="820.374961090244,237.183237049901">
+        <UIElement xsi:type="Track" UniqueId="28327c04-10f2-4396-b542-f6e9bb1fc7d5" />
+      </Content>
+    </RaftingHost>
+    <RaftingHost IsMaximized="false" Location="26,26" Size="300.432100263207,300.432100263207" State="Floating">
+      <Content xsi:type="ToolWindowContainer" AutoHideSize="300,300" DockedSize="300,1011.08311482663" DocumentSize="300,300" FloatingSize="300.432100263207,300.432100263207" Size="300.432100263207,300.432100263207">
+        <UIElement xsi:type="Track" UniqueId="51ebc797-d79c-49a0-99f1-6c69e52be9b3" />
+      </Content>
+    </RaftingHost>
     <RaftingHost IsMaximized="false" Location="260,260" Size="0,0" State="Floating">
       <Content xsi:type="ToolWindowContainer" AutoHideSize="300,22" DockedSize="300,300" DocumentSize="300,22" FloatingSize="300,22" Size="300,22">
         <UIElement xsi:type="Track" UniqueId="de7b864d-c6ed-41e0-b935-5c7b4430f06a" />
@@ -60,7 +113,7 @@
     </RaftingHost>
   </RaftingHosts>
   <ToolWindows>
-    <ToolWindow UniqueId="51ebc797-d79c-49a0-99f1-6c69e52be9b3" AutoHideSize="300,300" DockedSize="300,300" DocumentSize="300,300" FloatingSize="300,300" Size="300,300" IsOpen="true" LastState="Docked" Name="ScreenFactory_Client_ToolWindows_OutputsControl" StandardMdiBounds="0,0,300,200" State="AutoHide">
+    <ToolWindow UniqueId="51ebc797-d79c-49a0-99f1-6c69e52be9b3" AutoHideSize="300,300" DockedSize="300,1011.08311482663" DocumentSize="1063.91394127862,1011.08311482663" FloatingSize="300.432100263207,300.432100263207" Size="1063.91394127862,1011.08311482663" IsOpen="true" LastState="Docked" Name="ScreenFactory_Client_ToolWindows_OutputsControl" RaftingLocation="26,26" StandardMdiBounds="0,0,300,200" State="Document">
       <Tag xsi:type="LayoutData" ToolType="ScreenFactory.Client.ToolWindows.OutputsControl">
         <Data>
           <Settings>
@@ -141,7 +194,7 @@
         </Data>
       </Tag>
     </ToolWindow>
-    <ToolWindow UniqueId="d5436335-e042-46a4-8427-f3b1e19f2a0d" AutoHideSize="300,788.404353393086" DockedSize="526,731.333277483063" DocumentSize="300,788.404353393086" FloatingSize="300,788.404353393086" Size="526,731.333277483063" IsOpen="true" LastState="Docked" Name="ScreenFactory_Client_ToolWindows_PropertyGridTool" StandardMdiBounds="0,0,300,200" State="Docked">
+    <ToolWindow UniqueId="d5436335-e042-46a4-8427-f3b1e19f2a0d" AutoHideSize="300,788.404353393086" DockedSize="526,748.443392719939" DocumentSize="300,788.404353393086" FloatingSize="300,788.404353393086" Size="526,748.443392719939" IsOpen="true" LastState="Docked" Name="ScreenFactory_Client_ToolWindows_PropertyGridTool" StandardMdiBounds="0,0,300,200" State="Docked">
       <Tag xsi:type="LayoutData" ToolType="ScreenFactory.Client.ToolWindows.PropertyGridTool" />
     </ToolWindow>
     <ToolWindow UniqueId="c98e4da8-f030-466b-b53f-de5cad4fb16d" AutoHideSize="251,300" DockedSize="251,1064.8" DocumentSize="251,300" FloatingSize="251,300" Size="251,1064.8" IsOpen="true" LastState="Docked" Name="ScreenFactory_Client_ProjectDesigner_ProjectDesignerControl" StandardMdiBounds="0,0,300,200" State="Docked">
@@ -154,10 +207,10 @@
     <ToolWindow UniqueId="668543fb-e9f7-4160-9f38-d87c6dcce225" AutoHideSize="150,0" DockedSize="300,300" DocumentSize="150,0" FloatingSize="150,0" Size="150,0" IsOpen="true" LastState="Docked" Name="ScreenFactory_Client_ToolWindows_ToolboxControl" StandardMdiBounds="0,0,300,200" State="AutoHide">
       <Tag xsi:type="LayoutData" ToolType="ScreenFactory.Client.ToolWindows.ToolboxControl" />
     </ToolWindow>
-    <ToolWindow UniqueId="754d2b14-70a3-4830-8e5e-cfafbda6d82d" AutoHideSize="300,271.395646606914" DockedSize="526,251.749837343568" DocumentSize="300,271.395646606914" FloatingSize="300,271.395646606914" Size="526,251.749837343568" IsOpen="true" LastState="AutoHide" Name="ScreenFactory_Client_ApiObjectsDesigner_ApiObjectsTool" StandardMdiBounds="0,0,300,200" State="Docked">
+    <ToolWindow UniqueId="754d2b14-70a3-4830-8e5e-cfafbda6d82d" AutoHideSize="300,271.395646606914" DockedSize="526,257.639722106692" DocumentSize="300,271.395646606914" FloatingSize="300,271.395646606914" Size="526,257.639722106692" IsOpen="true" LastState="AutoHide" Name="ScreenFactory_Client_ApiObjectsDesigner_ApiObjectsTool" StandardMdiBounds="0,0,300,200" State="Docked">
       <Tag xsi:type="LayoutData" ToolType="ScreenFactory.Client.ApiObjectsDesigner.ApiObjectsTool" />
     </ToolWindow>
-    <ToolWindow UniqueId="5c66774c-3c8b-4885-a273-d9b5711e6ecd" AutoHideSize="0,200" DockedSize="526,251.749837343568" DocumentSize="0,200" FloatingSize="0,200" Size="526,251.749837343568" IsOpen="true" LastState="AutoHide" Name="ScreenFactory_Client_Designers_ActionsDesigner_ActionsTool" StandardMdiBounds="0,0,300,200" State="Docked">
+    <ToolWindow UniqueId="5c66774c-3c8b-4885-a273-d9b5711e6ecd" AutoHideSize="0,200" DockedSize="526,257.639722106692" DocumentSize="0,200" FloatingSize="0,200" Size="526,257.639722106692" IsOpen="true" LastState="AutoHide" Name="ScreenFactory_Client_Designers_ActionsDesigner_ActionsTool" StandardMdiBounds="0,0,300,200" State="Docked">
       <Tag xsi:type="LayoutData" ToolType="ScreenFactory.Client.Designers.ActionsDesigner.ActionsTool">
         <Data>
           <Options ShowEvents="false" />
@@ -167,7 +220,7 @@
     <ToolWindow UniqueId="c7907764-459a-4064-b98f-5e73767a2d44" AutoHideSize="251,300" DockedSize="251,1064.8" DocumentSize="251,300" FloatingSize="251,300" Size="251,1064.8" IsOpen="true" LastState="AutoHide" Name="ScreenFactory_Client_DataContextDesigner_VariablesTool" StandardMdiBounds="0,0,300,200" State="Docked">
       <Tag xsi:type="LayoutData" ToolType="ScreenFactory.Client.DataContextDesigner.VariablesTool" />
     </ToolWindow>
-    <ToolWindow UniqueId="28327c04-10f2-4396-b542-f6e9bb1fc7d5" AutoHideSize="300,237" DockedSize="300,300" DocumentSize="300,237" FloatingSize="300,237" Size="300,237" IsOpen="true" LastState="Docked" Name="ScreenFactory_Client_ToolWindows_ValidationTool" StandardMdiBounds="0,0,300,200" State="AutoHide">
+    <ToolWindow UniqueId="28327c04-10f2-4396-b542-f6e9bb1fc7d5" AutoHideSize="300,237" DockedSize="300,1011.08311482663" DocumentSize="1063.91394127862,1011.08311482663" FloatingSize="820.374961090244,237.183237049901" Size="1063.91394127862,1011.08311482663" IsOpen="true" LastState="Floating" Name="ScreenFactory_Client_ToolWindows_ValidationTool" RaftingLocation="428,842" StandardMdiBounds="0,0,300,200" State="Document">
       <Tag xsi:type="LayoutData" ToolType="ScreenFactory.Client.ToolWindows.ValidationTool" />
     </ToolWindow>
     <ToolWindow UniqueId="8ab81793-7bd3-4ad5-9980-7cfdf9b58adc" AutoHideSize="300,197" DockedSize="300,197" DocumentSize="300,197" FloatingSize="300,197" Size="300,197" IsOpen="false" LastState="AutoHide" Name="ScreenFactory_Client_ToolWindows_ListResultsTool" StandardMdiBounds="0,0,300,200" State="AutoHide">
